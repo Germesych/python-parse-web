@@ -1,1 +1,6 @@
-# python-parse-web
+# Парсер сайтов на Python-3.8
+На данный момент находится на стадии разработки, и не рекоментуется к использованию!
+
+## Паакеты / Библиотеки
+pip install requests
+pip install beautifulsoup4
